@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/mangrove_log_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/mangrove_log"
+    },
+    "axis=z": {
+      "model": "minecraft:block/mangrove_log_horizontal"
+    }
+  }
+}

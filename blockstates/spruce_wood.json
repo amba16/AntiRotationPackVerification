@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/spruce_wood"
+    },
+    "axis=y": {
+      "model": "minecraft:block/spruce_wood"
+    },
+    "axis=z": {
+      "model": "minecraft:block/spruce_wood"
+    }
+  }
+}

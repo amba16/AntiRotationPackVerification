@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "orientation=down_east": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=down_north": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=down_south": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=down_west": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=east_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=north_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=south_up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=up_east": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=up_north": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=up_south": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=up_west": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "orientation=west_up": {
+      "model": "minecraft:block/jigsaw"
+    }
+  }
+}

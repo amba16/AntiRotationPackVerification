@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/stripped_birch_log_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/stripped_birch_log"
+    },
+    "axis=z": {
+      "model": "minecraft:block/stripped_birch_log_horizontal"
+    }
+  }
+}

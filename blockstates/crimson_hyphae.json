@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/crimson_hyphae"
+    },
+    "axis=y": {
+      "model": "minecraft:block/crimson_hyphae"
+    },
+    "axis=z": {
+      "model": "minecraft:block/crimson_hyphae"
+    }
+  }
+}

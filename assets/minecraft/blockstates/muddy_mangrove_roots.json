@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/muddy_mangrove_roots"
+    },
+    "axis=y": {
+      "model": "minecraft:block/muddy_mangrove_roots"
+    },
+    "axis=z": {
+      "model": "minecraft:block/muddy_mangrove_roots"
+    }
+  }
+}

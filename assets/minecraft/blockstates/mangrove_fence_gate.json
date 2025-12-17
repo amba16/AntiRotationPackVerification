@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate",
+      "uvlock": true
+    },
+    "facing=east,in_wall=false,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_open",
+      "uvlock": true
+    },
+    "facing=east,in_wall=true,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate_wall",
+      "uvlock": true
+    },
+    "facing=east,in_wall=true,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_wall_open",
+      "uvlock": true
+    },
+    "facing=north,in_wall=false,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate",
+      "uvlock": true
+    },
+    "facing=north,in_wall=false,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_open",
+      "uvlock": true
+    },
+    "facing=north,in_wall=true,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate_wall",
+      "uvlock": true
+    },
+    "facing=north,in_wall=true,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_wall_open",
+      "uvlock": true
+    },
+    "facing=south,in_wall=false,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate",
+      "uvlock": true
+    },
+    "facing=south,in_wall=false,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_open",
+      "uvlock": true
+    },
+    "facing=south,in_wall=true,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate_wall",
+      "uvlock": true
+    },
+    "facing=south,in_wall=true,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_wall_open",
+      "uvlock": true
+    },
+    "facing=west,in_wall=false,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate",
+      "uvlock": true
+    },
+    "facing=west,in_wall=false,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_open",
+      "uvlock": true
+    },
+    "facing=west,in_wall=true,open=false": {
+      "model": "minecraft:block/mangrove_fence_gate_wall",
+      "uvlock": true
+    },
+    "facing=west,in_wall=true,open=true": {
+      "model": "minecraft:block/mangrove_fence_gate_wall_open",
+      "uvlock": true
+    }
+  }
+}

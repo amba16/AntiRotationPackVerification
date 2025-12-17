@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "minecraft:block/smoker"
+    },
+    "facing=east,lit=true": {
+      "model": "minecraft:block/smoker_on"
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/smoker"
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/smoker_on"
+    },
+    "facing=south,lit=false": {
+      "model": "minecraft:block/smoker"
+    },
+    "facing=south,lit=true": {
+      "model": "minecraft:block/smoker_on"
+    },
+    "facing=west,lit=false": {
+      "model": "minecraft:block/smoker"
+    },
+    "facing=west,lit=true": {
+      "model": "minecraft:block/smoker_on"
+    }
+  }
+}

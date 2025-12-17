@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/stonecutter"
+    },
+    "facing=north": {
+      "model": "minecraft:block/stonecutter"
+    },
+    "facing=south": {
+      "model": "minecraft:block/stonecutter"
+    },
+    "facing=west": {
+      "model": "minecraft:block/stonecutter"
+    }
+  }
+}

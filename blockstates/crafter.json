@@ -1,0 +1,148 @@
+{
+  "variants": {
+    "crafting=false,orientation=down_east,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=down_east,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=down_north,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=down_north,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=down_south,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=down_south,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=down_west,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=down_west,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=east_up,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=east_up,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=north_up,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=north_up,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=south_up,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=south_up,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=up_east,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=up_east,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=up_north,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=up_north,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=up_south,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=up_south,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=up_west,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=up_west,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=false,orientation=west_up,triggered=false": {
+      "model": "minecraft:block/crafter"
+    },
+    "crafting=false,orientation=west_up,triggered=true": {
+      "model": "minecraft:block/crafter_triggered"
+    },
+    "crafting=true,orientation=down_east,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=down_east,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=down_north,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=down_north,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=down_south,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=down_south,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=down_west,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=down_west,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=east_up,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=east_up,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=north_up,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=north_up,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=south_up,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=south_up,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=up_east,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=up_east,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=up_north,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=up_north,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=up_south,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=up_south,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=up_west,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=up_west,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    },
+    "crafting=true,orientation=west_up,triggered=false": {
+      "model": "minecraft:block/crafter_crafting"
+    },
+    "crafting=true,orientation=west_up,triggered=true": {
+      "model": "minecraft:block/crafter_crafting_triggered"
+    }
+  }
+}

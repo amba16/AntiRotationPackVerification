@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/iron_chain"
+    },
+    "axis=y": {
+      "model": "minecraft:block/iron_chain"
+    },
+    "axis=z": {
+      "model": "minecraft:block/iron_chain"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/pale_oak_wood"
+    },
+    "axis=y": {
+      "model": "minecraft:block/pale_oak_wood"
+    },
+    "axis=z": {
+      "model": "minecraft:block/pale_oak_wood"
+    }
+  }
+}

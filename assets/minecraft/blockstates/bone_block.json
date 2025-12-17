@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/bone_block"
+    },
+    "axis=y": {
+      "model": "minecraft:block/bone_block"
+    },
+    "axis=z": {
+      "model": "minecraft:block/bone_block"
+    }
+  }
+}

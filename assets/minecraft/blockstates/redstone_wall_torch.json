@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "minecraft:block/redstone_wall_torch_off"
+    },
+    "facing=east,lit=true": {
+      "model": "minecraft:block/redstone_wall_torch"
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/redstone_wall_torch_off"
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/redstone_wall_torch"
+    },
+    "facing=south,lit=false": {
+      "model": "minecraft:block/redstone_wall_torch_off"
+    },
+    "facing=south,lit=true": {
+      "model": "minecraft:block/redstone_wall_torch"
+    },
+    "facing=west,lit=false": {
+      "model": "minecraft:block/redstone_wall_torch_off"
+    },
+    "facing=west,lit=true": {
+      "model": "minecraft:block/redstone_wall_torch"
+    }
+  }
+}

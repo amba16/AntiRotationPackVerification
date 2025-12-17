@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/hopper"
+    },
+    "facing=east": {
+      "model": "minecraft:block/hopper_side"
+    },
+    "facing=north": {
+      "model": "minecraft:block/hopper_side"
+    },
+    "facing=south": {
+      "model": "minecraft:block/hopper_side"
+    },
+    "facing=west": {
+      "model": "minecraft:block/hopper_side"
+    }
+  }
+}
